@@ -45,6 +45,11 @@ hr {
 	margin: 0 10% 0 10%;
 }
 
+.im {
+	width: 250px;
+	max-width: 90%;
+}
+
 #zen {
 	max-height: 200px;
 	vertical-align: middle;
